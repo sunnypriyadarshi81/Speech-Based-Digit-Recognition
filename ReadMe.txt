@@ -5,7 +5,7 @@
 AppWizard has created this 234101051_DigitRecognition application for you.
 
 This file contains a summary of what you will find in each of the files that
-make up your 224101021_DigitRecognition application.
+make up your 234101051_DigitRecognition application.
 
 
 234101051_DigitRecognition.vcxproj
@@ -29,7 +29,7 @@ Other standard files:
 
 StdAfx.h, StdAfx.cpp
     These files are used to build a precompiled header (PCH) file
-    named 224101021_DigitRecognition.pch and a precompiled types file named StdAfx.obj.
+    named 234101051_DigitRecognition.pch and a precompiled types file named StdAfx.obj.
 
 /////////////////////////////////////////////////////////////////////////////
 Other notes:
